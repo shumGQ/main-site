@@ -1,3 +1,4 @@
 print("Я консоль!")
 print("Я рабочая консоль!!!")
 print("А я рабочая винда!!")
+print("Ubuntu worker!")
